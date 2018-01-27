@@ -1,4 +1,4 @@
-# huiming
+# mint-spa
 
 > A Vue.js project
 
