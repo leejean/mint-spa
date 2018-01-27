@@ -8,6 +8,9 @@
 # install dependencies
 npm install
 
+# install  vue2-better-scroll 
+npm install --save  vue2-better-scroll 
+
 # serve with hot reload at localhost:8080
 npm run dev
 
